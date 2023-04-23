@@ -8,5 +8,4 @@ def create_box(m, n):
         c += 1
     for i in range(len(matrix)):
         print(matrix[i])
-
 create_box(5, 8)
